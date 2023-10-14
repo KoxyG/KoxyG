@@ -9,11 +9,7 @@ JavaScript & Typescript are my canvas of choice, where I've harnessed its power 
 
 Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. With a history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork, I am resolute in my mission to shape the ever-evolving tech landscape.
 
-<p align="left">
-  <a href="https://twitter.com/koxy_dev">
-    <img alt="twitter profile"  />
-  </a>
-</p>
+
 
 
 <!--
