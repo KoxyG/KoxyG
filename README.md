@@ -12,7 +12,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 <br />
 
 <!-- Social icons section -->
-<p align="center" justify="center">
+<p align="center">
   
   <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -22,12 +22,6 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 </p>
 
 <br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
- <h3>🔥 Streak Stats</h3>
-
- 
    
   
   <!-- https://github.com/KoxyG/github-readme-activity-graph -->
