@@ -5,8 +5,6 @@
 
 I am Progress Ochuko Eyaadah, better known as Koxy in the software development realm. With a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
 
-JavaScript & Typescript are my canvas of choice, where I've harnessed its power to breathe life into numerous projects. Beyond coding, I wear the hat of a technical writer, driven by the desire to document knowledge and empower fellow tech enthusiasts.
-
 Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. With a history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork, I am resolute in my mission to shape the ever-evolving tech landscape.
 
 <br />
