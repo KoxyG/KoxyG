@@ -1,6 +1,7 @@
 # 👩‍🍳 Dev Koxy
-
+<!--
 **`Software_Developer  and Technical_Writer.`**
+-->
 
 
 I am Progress Ochuko Eyaadah, better known as Koxy in the software development realm. I have a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
@@ -10,7 +11,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 <br />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=f75c7d&random=false&width=435&lines=Software+Developer+and++Technical+writer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7D&random=false&width=435&lines=Software+Developer+%26+Technical+writer" alt="Typing SVG" /></a>
 </p>
 
  <p align="center">
