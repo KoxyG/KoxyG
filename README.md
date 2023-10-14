@@ -31,12 +31,8 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 
    <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/KoxyG/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/KoxyG/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KoxyG streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ 
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=KoxyG)](https://git.io/KoxyG)
   </p>
 
 <h3>💻 GitHub Profile Stats</h3>
