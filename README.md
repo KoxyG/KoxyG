@@ -23,6 +23,25 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 
 <br/>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#996](https://github.com/DenverCoder1/custom-icon-badges/pull/996) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🗣 Commented on [#37](https://github.com/torahcalc/torahcalc/issues/37) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🗣 Commented on [#22](https://github.com/torahcalc/torahcalc/issues/22) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 🎉 Merged PR [#993](https://github.com/DenverCoder1/custom-icon-badges/pull/993) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#994](https://github.com/DenverCoder1/custom-icon-badges/pull/994) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+<!--END_SECTION:activity-->
+
+
 
 
 
