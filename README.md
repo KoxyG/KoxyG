@@ -22,14 +22,16 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
   <br />
 
   <!-- Social icons section -->
-<p align="center">
+
   
-  <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/830424688571711498" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <p align="center">
   
-</p>
+     <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
+     <a href="https://discord.com/830424688571711498" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/>      </a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+   </p>
 
   
   
