@@ -11,7 +11,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CE24F7&random=false&width=435&lines=Software+Developer+and;+Technical+writer)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CE24F7&random=false&width=435&lines=Software+Developer+and;+Technical+writer)](https://git.io/typing-svg)]
    
 </p>
 
