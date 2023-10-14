@@ -3,9 +3,9 @@
 **`Software_Developer  and Technical_Writer.`**
 
 
-I am Progress Ochuko Eyaadah, better known as Koxy in the software development realm. With a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
+I am Progress Ochuko Eyaadah, better known as Koxy in the software development realm. I have a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
 
-Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. With a history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork, I am resolute in my mission to shape the ever-evolving tech landscape.
+Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. I have a good history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork. I am resolute in my mission to shape the ever-evolving tech landscape.
 
 <br />
 
