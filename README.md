@@ -14,7 +14,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 </p>
 
  <p align="center">
-     <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+     <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png?color=CE24F7"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://medium.com/@devkoxy"><img width="32px" alt="Dev.to" title="Koxy " src="https://i.imgur.com/mVm29vK.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
