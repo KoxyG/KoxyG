@@ -1,6 +1,6 @@
 # 👩‍🍳 Dev Koxy
 
-**`Software  Developer  and Technical Writer.`**
+**`Software_Developer  and Technical_Writer.`**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
