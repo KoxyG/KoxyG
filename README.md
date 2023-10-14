@@ -10,7 +10,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 <br />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CE24F7&random=false&width=435&lines=Software+Developer+and;+Technical+writer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=f75c7d&random=false&width=435&lines=Software+Developer+and++Technical+writer" alt="Typing SVG" /></a>
 </p>
 
  <p align="center">
