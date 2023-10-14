@@ -12,7 +12,7 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 <br />
 
 <!-- Social icons section -->
-<p align="center">
+<p align="center" justify="center">
   
   <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -25,16 +25,16 @@ Outside the lines of code, I'm an avid follower of technology trends, always eag
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <!-- https://github.com/KoxyG/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/KoxyG/github-readme-activity-graph"><img alt="KoxyG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KoxyG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!-- https://github.com/KoxyG/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#996](https://github.com/DenverCoder1/custom-icon-badges/pull/996) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#996](https://github.com/KoxyG/custom-icon-badges/pull/996) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 2. 🗣 Commented on [#37](https://github.com/torahcalc/torahcalc/issues/37) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 3. 🗣 Commented on [#22](https://github.com/torahcalc/torahcalc/issues/22) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 4. 🎉 Merged PR [#993](https://github.com/DenverCoder1/custom-icon-badges/pull/993) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
