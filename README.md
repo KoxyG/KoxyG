@@ -1,17 +1,17 @@
 # 👩‍🍳 Dev Koxy
 <!--
-**`Software_Developer  and Technical_Writer.`**
+**`Blockchain_Developer  and Technical_Writer.`**
 -->
 
 
-I am Progress Ochuko Eyaadah, better known as Koxy in the software development realm. I have a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
+I am Progress Ochuko Eyaadah, better known as Koxy in the Blockchain development realm. I have a deep-rooted passion for crafting software solutions, I've journeyed through the tech landscape as a dedicated developer.
 
 Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. I have a good history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork. I am resolute in my mission to shape the ever-evolving tech landscape.
 
 <br />
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7D&random=false&width=435&lines=Software+Developer+%26+Technical+writer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7D&random=false&width=435&lines=Blockchain+Developer+%26+Technical+writer" alt="Typing SVG" /></a>
 </p>
 
  <p align="center">
