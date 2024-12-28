@@ -1,60 +1,11 @@
-# 👩‍🍳 Dev Koxy
-<!--
-**`Blockchain_Developer  and Technical_Writer.`**
--->
+### Hi there 👋
 
+- 🔭 I’m currently a Full Stack Blockchain Engineer
 
-I am Progress Ochuko Eyaadah, better known as Koxy in the Blockchain development realm. I have a deep-rooted passion for crafting blockchain solutions, I've journeyed through the tech landscape as a dedicated developer.
+![Koxy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=koxyG\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-Outside the lines of code, I'm an avid follower of technology trends, always eager to absorb the latest advancements. I have a good history of excellence in development, a passion for knowledge sharing, and a deep appreciation for teamwork. I am resolute in my mission to shape the ever-evolving tech landscape.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koxyG&langs_count=10&layout=compact\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koxyG&theme=dark" alt="koxyG" /></p>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7D&random=false&width=435&lines=Blockchain+Developer+%26+Technical+writer" alt="Typing SVG" /></a>
-</p>
-
- <p align="center">
-     <a href="https://twitter.com/koxy_dev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png?color=CE24F7"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://medium.com/@devkoxy"><img width="32px" alt="Dev.to" title="Koxy " src="https://i.imgur.com/mVm29vK.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-     <a href="https://discord.com/830424688571711498" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/>      </a>
-     &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-
-<br/>
-   
-  
-  <!-- https://github.com/KoxyG/github-readme-activity-graph -->
-
-  <a href="https://github.com/KoxyG/github-readme-activity-graph"><img alt="KoxyG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KoxyG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  
-
-  <br />
-
-  <!-- Social icons section -->
-
-  
-  
-
-  
-  
-
-
-<!--
-**KoxyG/KoxyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koxyG&label=Profile%20views&color=0e75b6&style=flat" alt="koxyG" /> </p>
