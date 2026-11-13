@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Progress Ochuko Eyaadah, popularly known as Koxy in the web3 space. I am Software Engineer, Web3 Leader, Co-Founder & CTO Choppaddi FKA(Fastbuka) . Hit me up, let's cook something beautiful together.
+- 🔭 I’m Progress Ochuko Eyaadah, popularly known as Koxy in the web3 space. I am Software Engineer, Web3 Leader, Co-Founder of Choppaddi FKA(Fastbuka) . Hit me up, let's cook something beautiful together.
 
 ![Koxy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=koxyG\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
